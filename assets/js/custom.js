@@ -4,7 +4,7 @@ function myfunction(){
 }
  $(document).ready(function() {
           
-            $(".m-toggle").click(function() {
+            $(".m-toggleXX").click(function() {
                 $(".table-striped").toggle(1000);
             })
             
